@@ -21,6 +21,7 @@ The **probability mass function (PMF)** of the Binomial distribution gives the p
 
 The formula for the PMF of a Binomial distribution is:
 
+<<<<<<< HEAD
 \[ P(X = k) = \binom{n}{k} \times p^k \times (1 - p)^{n - k} \]
 
 where:
@@ -31,3 +32,6 @@ where:
 - *n* is the total number of trials.
 
 Binomial distributions are widely used in various fields, including statistics, finance, biology, and quality control, to model phenomena such as success/failure experiments, coin flips, and the number of defective items in a sample.
+=======
+\[ P(X = k) = \binom{n}{k} \times p^k \times (1 - 
+>>>>>>> 4ef3cb736726708633d90eb2a7be40f869d873c0
