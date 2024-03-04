@@ -1,0 +1,5 @@
+venv
+.git
+build/
+distributions.egg-info/
+distributions/__pycache__/
